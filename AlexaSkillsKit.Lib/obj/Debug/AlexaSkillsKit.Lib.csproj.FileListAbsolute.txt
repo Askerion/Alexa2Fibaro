@@ -1,0 +1,35 @@
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll.config
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.pdb
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Downloads\AlexaSkillsKit.NET-master\AlexaSkillsKit.NET-master\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.pdb
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll.config
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.pdb
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.pdb
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\HomeCenter\AlexaSkillsKit.Lib\bin\Debug\de\System.Net.Http.Formatting.resources.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll.config
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\AlexaSkillsKit.pdb
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\bin\Debug\de\System.Net.Http.Formatting.resources.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.dll
+C:\Users\Steinbach\Documents\Visual Studio 2015\Projects\FibaroHomeCenter\AlexaSkillsKit.Lib\obj\Debug\AlexaSkillsKit.pdb
